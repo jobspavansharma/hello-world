@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<response><playtext>Welcome to EY, delighted to receive your call</playtext><hangup/></response>
+<response>
+<playtext>Welcome to EY, delighted to receive your call</playtext>
+<record format="mp3" silence="3" maxduration="30" >myfilename</record>	
+<hangup/></response>
 	
