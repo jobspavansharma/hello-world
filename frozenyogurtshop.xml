@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response>
 <playtext>Welcome to EY, please speak after beep what help do you need ??? </playtext>
-<record format="mp3" silence="3" maxduration="30" >myfilename</record>	
+<record format="mp3" silence="3" maxduration="30" >https://github.com/jobspavansharma/hello-world/blob/master/frozenyogurtshop.mp3</record>	
 <hangup/></response>
 	
